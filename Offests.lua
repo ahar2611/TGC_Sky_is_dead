@@ -10,5 +10,6 @@ poffsets = {
   eprop = 0x23084,
   famount = 0x24598,
   gesture = 0x27864,
-  update = "21.05.15"
+  update = "21.05.15",
+  online = true
   }
