@@ -1,5 +1,6 @@
 poffsets = {
-  wlevel = 0x00,
+  sival = -1096122630,
+  wlevel = 0x203A0,
   positX = 0x1A938,
   positY = 0x1A93C,
   positZ = 0x1A940,
@@ -14,5 +15,5 @@ poffsets = {
   bsize = 0x244F8,
   uemote = -0x3C090,
   update = "21.05.22",
-  online = true
+  online = false
   }
