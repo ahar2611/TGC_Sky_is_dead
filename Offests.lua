@@ -13,7 +13,7 @@ poffsets = {
   gesture = 0x2CD04,
   magic = 0x2BFC8,
   bsize = 0x25D38,
-  uemote = -0x3C090,
-  update = "21.05.28",
+  uemote = -0x42540,
+  update = "21.05.29",
   online = true
   }
