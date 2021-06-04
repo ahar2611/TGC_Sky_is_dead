@@ -1,3 +1,4 @@
+Nver = 'a0604'
 poffsets = {
   sival = -1096122630,
   wlevel = 0x223E0,
@@ -14,9 +15,12 @@ poffsets = {
   magic = 0x2BFC8,
   bsize = 0x25D38,
   uemote = -0x42540,
-  update = "21.05.29",
+  eflowers = 0xB07014,
+  pshout = 0x23670,
+  pdamage = 0x2242C,
+  update = "21.06.04",
   online = true
-  };
+  }
 mid = {
   {'Small',1692428656},
   {'Samller',2142718166},
